@@ -1,3 +1,7 @@
 Dev commit 1
+<<<<<<< HEAD
 Dev commit 2
 Dev commit 3
+=======
+F1 commit
+>>>>>>> F1 commit
